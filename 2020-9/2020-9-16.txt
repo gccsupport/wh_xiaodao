@@ -1,1 +1,9 @@
-2020-9-16bxcfxccxxcf
+Dbchain细节完善：
+
+上午：
+1.交接知识产权，梳理工作内容
+2.查看Mysql展示页面，理解Dbchain开发者操作内容
+
+下午：
+1.和张总对接Dbchain操作细节点
+2.制作Dbchain操作Deom确认
